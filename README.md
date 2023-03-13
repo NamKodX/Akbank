@@ -4,3 +4,6 @@ Birden çok yapma fikri aklıma gelmişti.Lakin gerek okulun sistemini kurma ger
 
 Programı birde exe dosyası olarak ürettim lakin dosyayı programa boyuttan dolayı yükleyemedim bu sebeple projenin bir kısmını iletemedim.Projenin görüntüsünü aşağıda veriyorum
 
+Projeden ek olarak tkinter konu anlatımı notebooku hazırladım.Eksiklerimi bu şekilde tamamlarım belki. 
+
+Notebookta opencv ve matplotlib kullanıp ekranın çıktısını yazdırdık
