@@ -7,3 +7,7 @@ Programı birde exe dosyası olarak ürettim lakin dosyayı programa boyuttan do
 Projeden ek olarak tkinter konu anlatımı notebooku hazırladım.Eksiklerimi bu şekilde tamamlarım belki. 
 
 Notebookta opencv ve matplotlib kullanıp ekranın çıktısını yazdırdık
+
+Global AI Hub koç ile derin öğrenme bootcampinde de derin öğrenme ile kendi yapay zekamı yazıp projeyi teslim etmiştim ve bu sayede sertifikamı kazanmıştım
+
+Nice bootcamplerde görüşmek üzere 
